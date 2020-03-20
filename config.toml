@@ -10,7 +10,7 @@ theme = "devresume"
 
 [params]
     author = "CowboySmall"
-    description = "Alexandre MALESCOT"
+    description = "Alexandre MALESCOT - CV"
 
     primaryColor = "#027EC5"
     textPrimaryColor = "#414142"
@@ -18,7 +18,7 @@ theme = "devresume"
 
     [params.profile]
         enable = true
-        name = "Alexandre MALESCOT - CV"
+        name = "Alexandre MALESCOT"
         tagline = "Ingénieur support en devenir ..."
         avatar = "avatar.png"
 
