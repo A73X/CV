@@ -10,7 +10,7 @@ theme = "devresume"
 
 [params]
     author = "CowboySmall"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    description = "CV en ligne Alexandre MALESCOT"
 
     primaryColor = "#027EC5"
     textPrimaryColor = "#414142"
