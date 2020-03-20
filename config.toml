@@ -1,0 +1,294 @@
+# Page settings
+
+baseURL = ""
+languageCode = "fr"
+defaultContentLanguage = "fr"
+title = "Curriculum Vitae"
+theme = "devresume"
+#googleAnalytics = "UA-XXXXXXX-Y"
+
+
+[params]
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+    primaryColor = "#027EC5"
+    textPrimaryColor = "#414142"
+
+
+    [params.profile]
+        enable = true
+        name = "Alexandre MALESCOT"
+        tagline = "Ingénieur support en devenir ..."
+        avatar = "avatar.png"
+
+
+    [params.contact]
+        enable = true
+        location = "Montrouge"
+
+        #[[params.contact.list]]
+        #icon = "fas fa-phone-square"
+        #url = "tel:"
+        #text = "N/A"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:alexandre.malescot@gmail.com"
+        text = "alexandre.malescot@gmail.com"
+        #[[params.contact.list]]
+        #icon = "fas fa-globe"
+        #url = "#"
+        #text = "support.luceor.com"
+
+
+    [params.skills]
+        enable = true
+        [[params.skills.list]]
+        [[params.skills.list]]
+        [[params.skills.list]]
+        [[params.skills.list]]
+        title = "Techniques"
+        [[params.skills.list.items]]
+        details = "Linux/Server/Bash"
+        [[params.skills.list.items]]
+        details = "Win 7/10/Server/Office365"
+        [[params.skills.list.items]]
+        details = "HyperV/Vmware/VitualBox"
+        [[params.skills.list.items]]
+        details = "Administration Réseaux/VLANs/Sans Fil/Routage"
+        #[[params.skills.list.items]]
+        #details = "Object-oriented design"
+        #[[params.skills.list.items]]
+        #details = "Design and implement database structures"
+        #[[params.skills.list.items]]
+        #details = "Lead and deliver complex software systems"
+
+        [[params.skills.list]]
+        title = "Personnelles"
+        [[params.skills.list.items]]
+        details = "Autonomme"
+        [[params.skills.list.items]]
+        details = "Rigoureux"
+        #[[params.skills.list.items]]
+        #details = "Passioné"
+        #[[params.skills.list.items]]
+        #details = "Aime les défis"
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "ASRBD - Administrateur Systèmes, Réseaux et Base de Données - Niveau Bac +4"
+        university = "ASTON"
+        dates = "2019 - 2021"        
+        [[params.education.list]]
+        degree = "TSRS - Technicien Système Réseaux et Sécurité - Niveau Bac +2"
+        university = "ASTON"
+        dates = "2018 - 2019"
+        [[params.education.list]]
+        degree = "MMIR - Maintenicien en Micro-Informatique et Réseaux - Niveau Bac"
+        university = "ASTON"
+        dates = "2017 - 2018"
+
+
+
+
+    #[params.awards]
+    #   enable = true
+    #    [[params.awards.list]]
+    #    name = ""
+    #    body = "Microsoft lorem ipsum"
+    #    date = "2019"
+    #    [[params.awards.list]]
+    #    name = "Award Donec Sodales"
+    #    body = "Oracle Aenean"
+    #    date = "2017"
+#
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "Francais"
+        level = "Maternelle"
+        [[params.languages.list]]
+        name = "Anglais"
+        level = "B2"
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Administration IT"
+        [[params.interests.list]]
+        name = "Cinéma"
+        [[params.interests.list]]
+        name = ""
+        [[params.interests.list]]
+        name = "Travelling en famille"
+
+
+    [params.summary]
+        enable = true
+        text = "J'ai 28 ans et je suis passioné par l'IT. J'ai décidé de faire une reconversion professionnelle pour devenir administrateur systèmes et réseaux"
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Technicien support niveau 3"
+        dates = "En cours"
+        company = "Luceor"
+        #details = "Traitement des incidents clients, mais aussi :"
+        [[params.experience.list.items]]
+        details = "Assistance Avant-vente & PS"        
+        [[params.experience.list.items]]
+        details = "Formation de nos partenaires"
+        [[params.experience.list.items]]
+        details = "Assistance production"
+        [[params.experience.list.items]]
+        details = "Support interne bureautique Luceor"
+        [[params.experience.list.items]]
+        details = "Prise en charge de toute la chaine SAV"
+
+
+
+        [[params.experience.list]]
+        title = "Technicien support niveau 3"
+        dates = "Nov 18"
+        company = "Luceor"
+        #details = "Traitement des incidents clients, mais aussi :"
+        [[params.experience.list.items]]
+        details = "Développements d'outils de support"
+        [[params.experience.list.items]]
+        details = "Mise en place de plateforme de tests"
+        [[params.experience.list.items]]
+        details = "Administration de l'informatique interne à l'entreprise"
+        [[params.experience.list.items]]
+        details = "Gestion du SAV"
+
+        [[params.experience.list]]
+        title = "Technicien de proximité"
+        dates = "Jan 18 – Sept 18"
+        company = "Siège de Bouygues Construction"
+        [[params.experience.list.items]]
+        details = "Traitement incidents hardware et software."
+        [[params.experience.list.items]]
+        details = "SAV matériel DELL"
+        [[params.experience.list.items]]
+        details = "Déploiement de masters"
+        [[params.experience.list.items]]
+        details = "Utilisation des consoles AD et SCCM"
+        [[params.experience.list.items]]
+        details = "Gestion de parc (poste de prêt, commandes DELL)"
+        [[params.experience.list.items]]
+        details = "Gestion des données utilisateurs et confidentialité"
+        [[params.experience.list.items]]
+        details = "Relation utilisateur (conseils et bonnes pratiques)"
+        [[params.experience.list.items]]
+        details = "Gestion de « backlog » de type incidents et demandes"
+         
+
+
+        [[params.experience.list]]
+        title = "Extra chef de rang"
+        dates = "Janvier 2016 à Octobre 2017"
+        company = "Le Café Blanc"
+        #[[params.experience.list.items]]
+        #details = "Relation utilisateur (conseils et bonnes pratiques)"
+        [[params.experience.list.items]]
+        details = "Assurer les services"
+        [[params.experience.list.items]]
+        details = "Former les nouveaux arrivants"
+
+        [[params.experience.list]]
+        title = "Responsable du restaurant"
+        dates = "Novembre 2014 à Décembre 2016"
+        company = "Le Divan Café"
+        #details = ""
+        [[params.experience.list.items]]
+        details = "Gérer les commandes et plannings"
+        [[params.experience.list.items]]
+        details = "Gerer le bon déroulement de l'ouverture et de la mise en place des services "
+
+        [[params.experience.list]]
+        title = "Responsable du restaurant"
+        dates = "Septembre 2012 à Septembre 2014"
+        company = "Le Pareloup"
+        #details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        [[params.experience.list.items]]
+        details = "Assurer le bon déroulement des services"
+        [[params.experience.list.items]]
+        details = "Assurer du bon réaprovisonnement des stocks"
+
+        [[params.experience.list]]
+        title = "Serveur en restauration"
+        dates = "Septembre 2010 à Aout 2012"
+        company = "La Bretonne"
+        #details = ""
+        [[params.experience.list.items]]
+        details = "Acceuillir, conseiller la clientèle"
+        [[params.experience.list.items]]
+        details = "Service en salle"
+
+    [params.information]
+        enable = true
+
+        [[params.information.list]]
+        title = "Titulaire des permis"
+        [[params.information.list.items]]
+        details = "A et B, je suis également véhiculé"
+        #[[params.information.list.items]]
+        #details = "Véhiculé"
+
+    #    [[params.information.list]]
+    #    title = "Centres d'intérêt"
+    #    details = "J'aime la vie"
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Ce que j'aimerais faire par la suite ..."
+        meta = ""
+        tagline = "Je souhaite poursuivre mes études au moins jusqu'à l'obtention de mon bac +5, puis par la suite devenir ingénieur support et me perfectionner dans la sécurité."
+
+        #[[params.projects.list]]
+        #title = "Project Sed Fringilla"
+        #meta = "Open Source"
+        #tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+#
+        #[[params.projects.list]]
+        #title = "Project Praesent"
+        #meta = "Open Source"
+        #tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/A73X"
+        #title = "Papayaga"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/alexandre-malescot-470949172"
+        #title = "Alexandre MALESCOT"
+        #[[params.social.list]]
+        #icon = "fab fa-twitter-square"
+        #url = "//twitter.com/username"
+        #title = "@username"
+
+
+
