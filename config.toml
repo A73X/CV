@@ -66,7 +66,7 @@ theme = "devresume"
         [[params.skills.list]]
         title = "Personnelles"
         [[params.skills.list.items]]
-        details = "Autonomme"
+        details = "Autonome"
         [[params.skills.list.items]]
         details = "Rigoureux"
         #[[params.skills.list.items]]
