@@ -25,7 +25,7 @@ theme = "devresume"
 
     [params.contact]
         enable = true
-        location = "Montrouge"
+        location = "Montrouge - 92120"
 
         #[[params.contact.list]]
         #icon = "fas fa-phone-square"
@@ -80,7 +80,7 @@ theme = "devresume"
         enable = true
 
         [[params.education.list]]
-        degree = "ASRBD - Administrateur Systèmes, Réseaux et Base de Données - Niveau Bac +4"
+        degree = "ASRC - Administrateur Systèmes, Réseaux et Cloud - Niveau Bac +4"
         university = "ASTON"
         dates = "2019 - 2021"        
         [[params.education.list]]
@@ -258,7 +258,7 @@ theme = "devresume"
         [[params.projects.list]]
         title = "Ce que j'aimerais faire par la suite ..."
         meta = ""
-        tagline = "Je souhaite poursuivre mes études au moins jusqu'à l'obtention de mon bac +5, puis par la suite devenir ingénieur support et me perfectionner dans la sécurité."
+        tagline = "Je souhaite poursuivre mes études, puis par la suite devenir ingénieur support et me perfectionner dans la cybersécurité."
 
         #[[params.projects.list]]
         #title = "Project Sed Fringilla"
