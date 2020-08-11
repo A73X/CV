@@ -141,7 +141,7 @@ theme = "devresume"
         enable = true
 
         [[params.experience.list]]
-        title = "Technicien support niveau 3"
+        title = "Administrateur / Support niveau 3"
         dates = "En cours"
         company = "Luceor"
         #details = "Traitement des incidents clients, mais aussi :"
