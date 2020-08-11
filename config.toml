@@ -47,15 +47,16 @@ theme = "devresume"
         [[params.skills.list]]
         [[params.skills.list]]
         [[params.skills.list]]
-        title = "Techniques"
+        title = "Skills"
         [[params.skills.list.items]]
-        details = "Linux/Server/Bash"
+        details = "Linux - Windows 7/10 - Server"
         [[params.skills.list.items]]
-        details = "Win 7/10/Server/Office365"
+        details = "Vlans - Routage - Sans fil"
         [[params.skills.list.items]]
-        details = "HyperV/Vmware/VitualBox"
+        details = "Scripting - Docker - Ansible (en cours)"
         [[params.skills.list.items]]
-        details = "Administration Réseaux/VLANs/Sans Fil/Routage"
+        details = "Yaml - Json - Bash - PowerShell"
+        
         #[[params.skills.list.items]]
         #details = "Object-oriented design"
         #[[params.skills.list.items]]
