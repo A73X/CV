@@ -80,15 +80,15 @@ theme = "devresume"
         enable = true
 
         [[params.education.list]]
-        degree = "ASRC - Administrateur Systèmes, Réseaux et Cloud - Niveau Bac +4"
+        degree = "ASRC - Administrateur Systèmes, Réseaux et Cloud - Bac +4"
         university = "ASTON"
         dates = "2019 - 2021"        
         [[params.education.list]]
-        degree = "TSRS - Technicien Système Réseaux et Sécurité - Niveau Bac +2"
+        degree = "TSRS - Technicien Système Réseaux et Sécurité - Bac +2"
         university = "ASTON"
         dates = "2018 - 2019"
         [[params.education.list]]
-        degree = "MMIR - Maintenicien en Micro-Informatique et Réseaux - Niveau Bac"
+        degree = "MMIR - Maintenicien en Micro-Informatique et Réseaux - Bac"
         university = "ASTON"
         dates = "2017 - 2018"
 
