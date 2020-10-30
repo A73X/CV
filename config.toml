@@ -25,7 +25,7 @@ theme = "devresume"
 
     [params.contact]
         enable = true
-        location = "Montrouge - 92120"
+        location = "Montrouge (92120)"
 
         #[[params.contact.list]]
         #icon = "fas fa-phone-square"
@@ -137,7 +137,7 @@ theme = "devresume"
 
     [params.summary]
         enable = true
-        text = "J'ai 28 ans et je suis passioné par l'IT. J'ai décidé de faire une reconversion professionnelle pour devenir administrateur systèmes et réseaux"
+        text = "J'ai 28 ans et je suis passioné par l'IT. J'ai décidé de faire une reconversion professionnelle pour devenir administrateur systèmes et réseaux."
 
 
     [params.experience]
@@ -167,7 +167,7 @@ theme = "devresume"
         company = "Luceor"
         #details = "Traitement des incidents clients, mais aussi :"
         [[params.experience.list.items]]
-        details = "Développements d'outils de support"
+        details = "Développement d'outils de support"
         [[params.experience.list.items]]
         details = "Mise en place de plateforme de tests"
         [[params.experience.list.items]]
@@ -251,7 +251,7 @@ theme = "devresume"
 
     #    [[params.information.list]]
     #    title = "Centres d'intérêt"
-    #    details = "J'aime la vie"
+    #    details = ""
 
 
     [params.projects]
