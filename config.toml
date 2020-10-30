@@ -47,15 +47,17 @@ theme = "devresume"
         [[params.skills.list]]
         [[params.skills.list]]
         [[params.skills.list]]
-        title = "Skills"
+        title = "Informatique"
         [[params.skills.list.items]]
-        details = "Linux - Windows 7/10 - Server"
+        details = "Linux - Windows 7/10 - Hypervision"
         [[params.skills.list.items]]
-        details = "Vlans - Routage - Sans fil"
+        details = "Vlans - Routage - Sans fil - Firewall"
         [[params.skills.list.items]]
-        details = "Scripting - Docker - Ansible (en cours)"
+        details = "Scripting - Docker/Compose - Web (HUGO)"
         [[params.skills.list.items]]
-        details = "Yaml - Json - Bash - PowerShell"
+        details = "Yaml - Markdown - Json"
+        [[params.skills.list.items]]
+        details = "Bash - PowerShell - C (formation)"
         
         #[[params.skills.list.items]]
         #details = "Object-oriented design"
@@ -258,7 +260,7 @@ theme = "devresume"
         [[params.projects.list]]
         title = "Ce que j'aimerais faire par la suite ..."
         meta = ""
-        tagline = "Je souhaite poursuivre mes études dans le domaine de la cybersécurité."
+        tagline = "Je souhaite poursuivre mes études dans le domaine de la cybersécurité (BAC +5)."
 
         #[[params.projects.list]]
         #title = "Project Sed Fringilla"
