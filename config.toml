@@ -67,7 +67,7 @@ theme = "devresume"
         #details = "Lead and deliver complex software systems"
 
         [[params.skills.list]]
-        title = "Personnelles"
+        title = "Personnelle"
         [[params.skills.list.items]]
         details = "Autonome"
         [[params.skills.list.items]]
