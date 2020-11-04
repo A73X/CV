@@ -49,7 +49,7 @@ theme = "devresume"
         [[params.skills.list]]
         title = "Informatique"
         [[params.skills.list.items]]
-        details = "Linux - Windows 7/10 - Hypervision"
+        details = "Linux - Windows 7/10 - Hyperviseur"
         [[params.skills.list.items]]
         details = "Vlans - Routage - Sans fil - Firewall"
         [[params.skills.list.items]]
