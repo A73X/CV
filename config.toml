@@ -188,7 +188,7 @@ theme = "devresume"
         [[params.experience.list.items]]
         details = "Utilisation des consoles AD et SCCM"
         [[params.experience.list.items]]
-        details = "Gestion de parc (poste de prêt, commandes DELL)"
+        details = "Gestion de parc (Nouvels utilisateurs, postes nomades)"
         [[params.experience.list.items]]
         details = "Gestion des données utilisateurs et confidentialité"
         [[params.experience.list.items]]
