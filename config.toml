@@ -57,7 +57,7 @@ theme = "devresume"
         [[params.skills.list.items]]
         details = "Yaml - Markdown - Json"
         [[params.skills.list.items]]
-        details = "Bash - PowerShell - C (formation)"
+        details = "Bash - PowerShell"
         
         #[[params.skills.list.items]]
         #details = "Object-oriented design"
