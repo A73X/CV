@@ -34,7 +34,7 @@ theme = "devresume"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:alexandre.malescot@gmail.com"
-        text = "alexandre.malescot@gmail.com"
+        text = "alexandre.malescot@pm.me"
         #[[params.contact.list]]
         #icon = "fas fa-globe"
         #url = "#"
